@@ -1,0 +1,13 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.coffe-container-1{
+    background-image: url("image folder/coffee-1a.jpg");
+    height:45vh;
+}
+
+.food-flex-containe-1{
+    display:flex;
+    margin:20px;
+}

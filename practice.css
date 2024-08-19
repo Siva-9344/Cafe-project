@@ -1,0 +1,12 @@
+.container-1{
+    background-image: url("image folder/carrots-1.jpg");
+    height:100vh;
+    margin:200px;
+
+}
+.container-2{
+    border:solid;
+    height:300px;
+    width:300px;
+    margin:100px;
+}

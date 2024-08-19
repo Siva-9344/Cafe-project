@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.vegetables-container-1{
+    background-image: url("image folder/vegetables-1.jpg");
+    height:45vh;
+    
+}
+.flex-container-vegetables-1{
+    display:flex;
+    padding:10px;
+    text-align:center;
+    margin-left:45px;
+
+}
+.vegetables-container-2{
+    background-color:#f5d9ab;
+    height:8vh;
+   
+}

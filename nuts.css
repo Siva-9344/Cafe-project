@@ -1,0 +1,12 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.container-1nuts{
+    background-image: url("image folder/anacardium-1.jpg");
+    height:45vh;
+}
+.flex-container-1a{
+    display:flex;
+    margin:20px;
+}

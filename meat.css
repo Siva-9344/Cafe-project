@@ -1,0 +1,16 @@
+*{
+    margin:0px;
+    padding:opx;
+}
+.flex-container-1b{
+    background-image: url("image folder/meat-1a.jpg");
+    height:45vh;
+}
+.flex-container-2{
+    display:flex;
+    margin-left:20px;
+}
+.flex-container-2a{
+    background-image: url("image folder/meat-1b.jpg");
+    height:10vh;
+}

@@ -1,0 +1,46 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.head-container-1{
+    background-color: white;
+    height:15%;
+}
+
+.searchbar{
+    margin-left:35%;
+    margin-top:4%;
+}
+
+.container-2{
+    background-color:white ;
+    height:100vh;
+    
+}
+.box-container-1{
+    border:solid;
+    margin:20px;
+    margin-top:20px;
+
+}
+
+.container-1{
+    background-color:white;
+    height:150vh;
+    margin-top:10px;
+    background-attachment: fixed;
+}
+.flex-container{
+    display:flex;
+}
+.coffe-container-1{
+    margin:20px;
+}
+
+.container-2{
+    background-color: #e39d12;
+    height:25vh;
+}
+.container-2a{
+    text-align:center;
+}
